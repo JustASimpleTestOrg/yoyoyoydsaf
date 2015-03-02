@@ -136,6 +136,10 @@ Code blocks are the same as github flavored fenced code blocks. You can
 No language specified
 ```
 
+```
+No language specified
+```
+
 ```coffeescript
 #Code blocks with language
 ```
